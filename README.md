@@ -36,7 +36,7 @@ Version requirements:
 ### File Descriptions <a name="files"></a>
 * dog_app.ipynb: Primary Jupyter Notebook project file containing all code. Can be run as-is.
 * extract_bottleneck_features.py: provided code to extract bottleneck features.
-* bottleneck_features
+* bottleneck_features: these must be downloaded manually and placed in this directory. They are too large for github.
   - DogResnet50Data.npz: bottleneck features for use with the ResNet50 model
   - DogVGG16Data.npz: bottleneck features for use with the VGG16 model
 * haarcascades:
